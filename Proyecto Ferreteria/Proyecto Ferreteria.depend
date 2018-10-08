@@ -1,0 +1,299 @@
+# depslib dependency file v1.0
+1538958771 source:c:\users\kta\desktop\proyecto ferreteria\main.cpp
+	"Interfaz.h"
+	<iostream>
+
+1538973675 c:\users\kta\desktop\proyecto ferreteria\include\lista_sucursal.h
+	"Sucursal.h"
+	<iostream>
+
+1538929278 c:\users\kta\desktop\proyecto ferreteria\include\sucursal.h
+	<iostream>
+
+1538964058 source:c:\users\kta\desktop\proyecto ferreteria\src\interfaz.cpp
+	"Interfaz.h"
+
+1538964058 c:\users\kta\desktop\proyecto ferreteria\include\interfaz.h
+	"Lista_Sucursal.h"
+	"Lista_Seccion.h"
+	"Lista_Tipo_Producto.h"
+	<stdlib.h>
+	<limits>
+	<exception>
+	<windows.h>
+	<iostream>
+	<string>
+	<bits/stdc++.h>
+
+1538929275 source:c:\users\kta\desktop\proyecto ferreteria\src\sucursal.cpp
+	"Sucursal.h"
+
+1538973675 source:c:\users\kta\desktop\proyecto ferreteria\src\lista_sucursal.cpp
+	"Lista_Sucursal.h"
+
+1538973401 source:c:\users\kta\desktop\proyecto ferreteria\src\lista_seccion.cpp
+	"Lista_Seccion.h"
+
+1538973322 c:\users\kta\desktop\proyecto ferreteria\include\lista_seccion.h
+	<iostream>
+	"Seccion.h"
+
+1538936323 c:\users\kta\desktop\proyecto ferreteria\include\seccion.h
+	<iostream>
+
+1538951212 source:c:\users\kta\desktop\proyecto ferreteria\src\seccion.cpp
+	"Seccion.h"
+
+1538957737 source:c:\users\kta\desktop\proyecto ferreteria\src\tipo_producto.cpp
+	"Tipo_Producto.h"
+
+1538958015 c:\users\kta\desktop\proyecto ferreteria\include\tipo_producto.h
+	<iostream>
+
+1538973520 source:c:\users\kta\desktop\proyecto ferreteria\src\lista_tipo_producto.cpp
+	"Lista_Tipo_Producto.h"
+
+1538973520 c:\users\kta\desktop\proyecto ferreteria\include\lista_tipo_producto.h
+	<iostream>
+	"Tipo_Producto.h"
+
+1539004953 source:c:\users\laura\desktop\ultima version proyecto ferreteria\proyecto ferreteria\main.cpp
+	"Interfaz.h"
+	<iostream>
+	"Lista_Sucursal.h"
+	"Pila_Producto.h"
+	"Tipo_Producto.h"
+
+1538964060 c:\users\laura\desktop\ultima version proyecto ferreteria\proyecto ferreteria\include\interfaz.h
+	"Lista_Sucursal.h"
+	"Lista_Seccion.h"
+	"Lista_Tipo_Producto.h"
+	<stdlib.h>
+	<limits>
+	<exception>
+	<windows.h>
+	<iostream>
+	<string>
+	<bits/stdc++.h>
+
+1539004571 c:\users\laura\desktop\ultima version proyecto ferreteria\proyecto ferreteria\include\lista_sucursal.h
+	"Sucursal.h"
+	<iostream>
+
+1538929280 c:\users\laura\desktop\ultima version proyecto ferreteria\proyecto ferreteria\include\sucursal.h
+	<iostream>
+
+1538973324 c:\users\laura\desktop\ultima version proyecto ferreteria\proyecto ferreteria\include\lista_seccion.h
+	<iostream>
+	"Seccion.h"
+
+1538936324 c:\users\laura\desktop\ultima version proyecto ferreteria\proyecto ferreteria\include\seccion.h
+	<iostream>
+
+1539005216 c:\users\laura\desktop\ultima version proyecto ferreteria\proyecto ferreteria\include\lista_tipo_producto.h
+	<iostream>
+	"Tipo_Producto.h"
+	"Pila_Producto.h"
+
+1539004385 c:\users\laura\desktop\ultima version proyecto ferreteria\proyecto ferreteria\include\tipo_producto.h
+	<iostream>
+	<sstream>
+	<string>
+
+1538964060 source:c:\users\laura\desktop\ultima version proyecto ferreteria\proyecto ferreteria\src\interfaz.cpp
+	"Interfaz.h"
+
+1538974610 source:c:\users\laura\desktop\ultima version proyecto ferreteria\proyecto ferreteria\src\lista_seccion.cpp
+	"Lista_Seccion.h"
+
+1539003292 source:c:\users\laura\desktop\ultima version proyecto ferreteria\proyecto ferreteria\src\lista_sucursal.cpp
+	"Lista_Sucursal.h"
+
+1539005730 source:c:\users\laura\desktop\ultima version proyecto ferreteria\proyecto ferreteria\src\lista_tipo_producto.cpp
+	"Lista_Tipo_Producto.h"
+
+1538951214 source:c:\users\laura\desktop\ultima version proyecto ferreteria\proyecto ferreteria\src\seccion.cpp
+	"Seccion.h"
+
+1538929276 source:c:\users\laura\desktop\ultima version proyecto ferreteria\proyecto ferreteria\src\sucursal.cpp
+	"Sucursal.h"
+
+1539004396 source:c:\users\laura\desktop\ultima version proyecto ferreteria\proyecto ferreteria\src\tipo_producto.cpp
+	"Tipo_Producto.h"
+
+1539004461 source:c:\users\laura\desktop\ultima version proyecto ferreteria\proyecto ferreteria\src\pila_producto.cpp
+	"Pila_Producto.h"
+
+1539004846 c:\users\laura\desktop\ultima version proyecto ferreteria\proyecto ferreteria\include\pila_producto.h
+	"Tipo_Producto.h"
+
+1539025491 source:c:\users\laura\desktop\ultima version proyecto ferreteria - copia\proyecto ferreteria\main.cpp
+	"Interfaz.h"
+	<iostream>
+	"Lista_Sucursal.h"
+	"Pila_Producto.h"
+	"Tipo_Producto.h"
+	"Lista_Tipo_Producto.h"
+	"Lista_Seccion.h"
+	"Lista_Sucursal.h"
+
+1538964060 c:\users\laura\desktop\ultima version proyecto ferreteria - copia\proyecto ferreteria\include\interfaz.h
+	"Lista_Sucursal.h"
+	"Lista_Seccion.h"
+	"Lista_Tipo_Producto.h"
+	<stdlib.h>
+	<limits>
+	<exception>
+	<windows.h>
+	<iostream>
+	<string>
+	<bits/stdc++.h>
+
+1539020934 c:\users\laura\desktop\ultima version proyecto ferreteria - copia\proyecto ferreteria\include\lista_sucursal.h
+	"Sucursal.h"
+	<iostream>
+
+1538929280 c:\users\laura\desktop\ultima version proyecto ferreteria - copia\proyecto ferreteria\include\sucursal.h
+	<iostream>
+
+1539016412 c:\users\laura\desktop\ultima version proyecto ferreteria - copia\proyecto ferreteria\include\lista_seccion.h
+	<iostream>
+	"Seccion.h"
+
+1538936324 c:\users\laura\desktop\ultima version proyecto ferreteria - copia\proyecto ferreteria\include\seccion.h
+	<iostream>
+
+1539025261 c:\users\laura\desktop\ultima version proyecto ferreteria - copia\proyecto ferreteria\include\lista_tipo_producto.h
+	<iostream>
+	"Tipo_Producto.h"
+	"Pila_Producto.h"
+
+1539022392 c:\users\laura\desktop\ultima version proyecto ferreteria - copia\proyecto ferreteria\include\tipo_producto.h
+	<iostream>
+	<sstream>
+	<string>
+
+1539024531 c:\users\laura\desktop\ultima version proyecto ferreteria - copia\proyecto ferreteria\include\pila_producto.h
+	"Tipo_Producto.h"
+
+1538964060 source:c:\users\laura\desktop\ultima version proyecto ferreteria - copia\proyecto ferreteria\src\interfaz.cpp
+	"Interfaz.h"
+
+1538974610 source:c:\users\laura\desktop\ultima version proyecto ferreteria - copia\proyecto ferreteria\src\lista_seccion.cpp
+	"Lista_Seccion.h"
+
+1539020950 source:c:\users\laura\desktop\ultima version proyecto ferreteria - copia\proyecto ferreteria\src\lista_sucursal.cpp
+	"Lista_Sucursal.h"
+
+1539025261 source:c:\users\laura\desktop\ultima version proyecto ferreteria - copia\proyecto ferreteria\src\lista_tipo_producto.cpp
+	"Lista_Tipo_Producto.h"
+
+1539025947 source:c:\users\laura\desktop\ultima version proyecto ferreteria - copia\proyecto ferreteria\src\pila_producto.cpp
+	"Pila_Producto.h"
+
+1538951214 source:c:\users\laura\desktop\ultima version proyecto ferreteria - copia\proyecto ferreteria\src\seccion.cpp
+	"Seccion.h"
+
+1538929276 source:c:\users\laura\desktop\ultima version proyecto ferreteria - copia\proyecto ferreteria\src\sucursal.cpp
+	"Sucursal.h"
+
+1539022432 source:c:\users\laura\desktop\ultima version proyecto ferreteria - copia\proyecto ferreteria\src\tipo_producto.cpp
+	"Tipo_Producto.h"
+
+1539025491 source:c:\users\kta\desktop\ultima version proyecto ferreteria - copia\proyecto ferreteria\main.cpp
+	"Interfaz.h"
+	<iostream>
+	"Lista_Sucursal.h"
+	"Pila_Producto.h"
+	"Tipo_Producto.h"
+	"Lista_Tipo_Producto.h"
+	"Lista_Seccion.h"
+	"Lista_Sucursal.h"
+
+1539042089 c:\users\kta\desktop\ultima version proyecto ferreteria - copia\proyecto ferreteria\include\interfaz.h
+	"Lista_Sucursal.h"
+	"Lista_Seccion.h"
+	"Lista_Tipo_Producto.h"
+	<stdlib.h>
+	<limits>
+	<exception>
+	<windows.h>
+	<iostream>
+	<string>
+	<bits/stdc++.h>
+	<fstream>
+	<stdio.h>
+	<time.h>
+
+1539020934 c:\users\kta\desktop\ultima version proyecto ferreteria - copia\proyecto ferreteria\include\lista_sucursal.h
+	"Sucursal.h"
+	<iostream>
+
+1538929280 c:\users\kta\desktop\ultima version proyecto ferreteria - copia\proyecto ferreteria\include\sucursal.h
+	<iostream>
+
+1539016412 c:\users\kta\desktop\ultima version proyecto ferreteria - copia\proyecto ferreteria\include\lista_seccion.h
+	<iostream>
+	"Seccion.h"
+
+1538936324 c:\users\kta\desktop\ultima version proyecto ferreteria - copia\proyecto ferreteria\include\seccion.h
+	<iostream>
+
+1539025261 c:\users\kta\desktop\ultima version proyecto ferreteria - copia\proyecto ferreteria\include\lista_tipo_producto.h
+	<iostream>
+	"Tipo_Producto.h"
+	"Pila_Producto.h"
+
+1539022392 c:\users\kta\desktop\ultima version proyecto ferreteria - copia\proyecto ferreteria\include\tipo_producto.h
+	<iostream>
+	<sstream>
+	<string>
+
+1539040674 c:\users\kta\desktop\ultima version proyecto ferreteria - copia\proyecto ferreteria\include\pila_producto.h
+	"Tipo_Producto.h"
+
+1538974610 source:c:\users\kta\desktop\ultima version proyecto ferreteria - copia\proyecto ferreteria\src\lista_seccion.cpp
+	"Lista_Seccion.h"
+
+1539020950 source:c:\users\kta\desktop\ultima version proyecto ferreteria - copia\proyecto ferreteria\src\lista_sucursal.cpp
+	"Lista_Sucursal.h"
+
+1539026018 source:c:\users\kta\desktop\ultima version proyecto ferreteria - copia\proyecto ferreteria\src\lista_tipo_producto.cpp
+	"Lista_Tipo_Producto.h"
+
+1539025947 source:c:\users\kta\desktop\ultima version proyecto ferreteria - copia\proyecto ferreteria\src\pila_producto.cpp
+	"Pila_Producto.h"
+
+1538951214 source:c:\users\kta\desktop\ultima version proyecto ferreteria - copia\proyecto ferreteria\src\seccion.cpp
+	"Seccion.h"
+
+1538929276 source:c:\users\kta\desktop\ultima version proyecto ferreteria - copia\proyecto ferreteria\src\sucursal.cpp
+	"Sucursal.h"
+
+1539022432 source:c:\users\kta\desktop\ultima version proyecto ferreteria - copia\proyecto ferreteria\src\tipo_producto.cpp
+	"Tipo_Producto.h"
+
+1539040839 source:c:\users\kta\desktop\ultima version proyecto ferreteria - copia\proyecto ferreteria\src\interfaz.cpp
+	"Interfaz.h"
+
+1539028310 source:c:\users\kta\desktop\ultima version proyecto ferreteria - copia\proyecto ferreteria\src\cliente.cpp
+	"Cliente.h"
+
+1539028294 c:\users\kta\desktop\ultima version proyecto ferreteria - copia\proyecto ferreteria\include\cliente.h
+	"Lista_Tipo_Producto.h"
+	<iostream>
+	<fstream>
+
+1539041444 source:c:\users\kta\desktop\ultima version proyecto ferreteria - copia\proyecto ferreteria\src\producto.cpp
+	"Producto.h"
+
+1539041646 c:\users\kta\desktop\ultima version proyecto ferreteria - copia\proyecto ferreteria\include\producto.h
+	<iostream>
+	<sstream>
+
+1539041564 source:c:\users\kta\desktop\ultima version proyecto ferreteria - copia\proyecto ferreteria\src\pila_carrito.cpp
+	"Pila_Carrito.h"
+
+1539041564 c:\users\kta\desktop\ultima version proyecto ferreteria - copia\proyecto ferreteria\include\pila_carrito.h
+	"Producto.h"
+
